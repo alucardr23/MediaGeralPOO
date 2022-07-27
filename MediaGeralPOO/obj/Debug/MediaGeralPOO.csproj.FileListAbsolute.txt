@@ -1,0 +1,8 @@
+C:\curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.SuggestedBindingRedirects.cache
+C:\curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
